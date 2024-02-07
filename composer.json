@@ -6,7 +6,11 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "spryker/acl-merchant-agent": "^1.0.0",
+        "spryker/agent-security-blocker-merchant-portal": "^1.0.0",
+        "spryker/merchant-agent": "^1.0.0",
+        "spryker/merchant-agent-gui": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
