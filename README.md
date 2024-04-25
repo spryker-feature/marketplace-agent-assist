@@ -2,7 +2,7 @@
 
 This feature is designed to enable marketplace operators to impersonate merchant users in the Merchant Portal. The agent is a role for the employee of the marketplace operator with the main task of assisting the merchant if any help is needed. The agent acts as a backoffice user with “Agent Assist in Merchant Portal” permission.
 
-Documentation: https://docs.spryker.com/docs/pbc/all/user-management/202404.0/marketplace/merchant-portal-agent-assist-feature-overview.html
+[Learn more](https://docs.spryker.com/docs/pbc/all/user-management/202404.0/marketplace/merchant-portal-agent-assist-feature-overview.html)
 
 ## Installation
 
