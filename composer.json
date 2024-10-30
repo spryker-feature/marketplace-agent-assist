@@ -8,7 +8,7 @@
     "require": {
         "php": ">=8.2",
         "spryker/acl-merchant-agent": "^1.0.0",
-        "spryker/agent-security-blocker-merchant-portal": "^1.0.0",
+        "spryker/agent-security-blocker-merchant-portal": "^1.1.0",
         "spryker/merchant-agent": "^1.0.0",
         "spryker/merchant-agent-gui": "^1.0.0"
     },
