@@ -11,7 +11,7 @@ composer require spryker-feature/marketplace-agent-assist
 ```
 
 ## Optional modules
-- [AgentDashboardMerchantPortalGui ^1.0.0](https://github.com/spryker/agent-dashboard-merchant-portal-gui) (MP GUI)
+- [AgentDashboardMerchantPortalGui ^1.2.0](https://github.com/spryker/agent-dashboard-merchant-portal-gui) (MP GUI)
 - [AgentDashboardMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/agent-dashboard-merchant-portal-gui-extension) (Extension)
 - [AgentSecurityBlockerMerchantPortalGui ^1.1.0](https://github.com/spryker/agent-security-blocker-merchant-portal-gui) (MP GUI)
-- [AgentSecurityMerchantPortalGui ^1.1.0](https://github.com/spryker/agent-security-merchant-portal-gui) (MP GUI)
+- [AgentSecurityMerchantPortalGui ^1.3.0](https://github.com/spryker/agent-security-merchant-portal-gui) (MP GUI)
