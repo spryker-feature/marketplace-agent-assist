@@ -10,11 +10,11 @@
         "spryker/acl-merchant-agent": "^1.0.0",
         "spryker/agent-security-blocker-merchant-portal": "^1.1.0",
         "spryker/merchant-agent": "^1.0.0",
-        "spryker/merchant-agent-gui": "^1.0.0"
+        "spryker/merchant-agent-gui": "^2.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202510.x-dev"
         }
     }
 }
